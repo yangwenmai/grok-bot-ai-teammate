@@ -1,0 +1,20 @@
+[book]
+title = "让 Grok Bot 成为你的 AI 队友"
+authors = ["Mai Yang", "共创者"]
+description = "一本可在 GitHub Pages 打开的中文开源书：把 Grok Bot 当成 AI 队友用起来。英文工作名：Make Grok Bot Your AI Teammate。"
+language = "zh"
+src = "src"
+
+[build]
+build-dir = "book"
+create-missing = false
+
+[output.html]
+git-repository-url = "https://github.com/yangwenmai/grok-bot-ai-teammate"
+edit-url-template = "https://github.com/yangwenmai/grok-bot-ai-teammate/edit/main/{path}"
+site-url = "/grok-bot-ai-teammate/"
+default-theme = "light"
+preferred-dark-theme = "navy"
+search.enable = true
+search.limit-results = 20
+search.use-boolean-and = true
