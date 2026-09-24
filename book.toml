@@ -1,0 +1,26 @@
+[book]
+title = "我和我的社区朋友们"
+description = "自传式社区历史：从 Go 夜读到 xAI Ambassador 之路"
+authors = ["Mai Yang (杨文)"]
+language = "zh"
+multilingual = false
+src = "src"
+
+[build]
+build-dir = "book"
+create-missing = true
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/yangwenmai/grok-bot-ai-teammate"
+edit-url-template = "https://github.com/yangwenmai/grok-bot-ai-teammate/edit/main/{path}"
+site-url = "/grok-bot-ai-teammate/"
+cname = ""
+
+[output.html.print]
+enable = true
+
+[output.html.fold]
+enable = false
+level = 0
