@@ -1,4 +1,4 @@
-# Map
+# Contributing
 
 English translation TBD. Chinese is the source of truth for V1.
 

@@ -1,3 +1,5 @@
-# (English shell)
+# Principles
 
-V1 reserved. Chinese is canonical. Translation rules: see root `CONTRIBUTING.md`.
+English translation TBD. Chinese is the source of truth for V1.
+
+See the matching chapter under `src/zh/`.

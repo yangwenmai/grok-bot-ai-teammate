@@ -1,9 +1,9 @@
 # 让 Grok Bot 成为你的 AI 队友
 
-一本可在 GitHub Pages 打开的中文开源书。主角绑死 **Grok Bot**；OpenClaw / Hermes / Workbuddy 只出现在对照栏。
+这本书讲一件事。怎么把 Grok Bot 当成能派活的队友来用。
 
-姿态：祛魅、朴素、可验证现场。不写教程腔、不卖课、不开公司后台故事。
+你可能已经试过别的工具。不用先站队。书里的主角是 Grok Bot；别的只在需要对照时提一句。
 
-许可：正文 [CC BY 4.0](../LICENSE-CC-BY-4.0)；脚本 [MIT](../LICENSE)。
+写法尽量白话。不神话，不堆空词，能核对的事写清楚出处。价格和版本会过时，过时了会标明。
 
-投稿与审稿见根级 [CONTRIBUTING.md](../CONTRIBUTING.md)。
+正文许可见 [CC BY 4.0](../LICENSE-CC-BY-4.0)。怎么投稿看根目录 [CONTRIBUTING.md](../CONTRIBUTING.md)。

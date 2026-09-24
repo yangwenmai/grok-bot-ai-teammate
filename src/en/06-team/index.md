@@ -1,4 +1,4 @@
-# Map
+# Running a small team
 
 English translation TBD. Chinese is the source of truth for V1.
 
